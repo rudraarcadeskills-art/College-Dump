@@ -18,7 +18,7 @@ int main()
         printf("enter your choice:");
         scanf("%d", &choice);
 
-        
+        printf("enter the rows and ")
 
 
 
